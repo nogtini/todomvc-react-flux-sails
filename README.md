@@ -1,1 +1,1 @@
-# todomvc-react-flux-sails
+# TodoMVC with React/Flux on Sails
