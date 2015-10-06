@@ -1,12 +1,12 @@
 {
-  "name": "yacht-rock",
-  "description": "Yacht Rock: React on a Boat",
-  "version": "0.0.3",
-  "keywords": "react, flux, browserify, sails",
+  "name": "todomvc-react-flux-sails",
+  "description": "TodoMVC using React, Flux, and Sails",
+  "version": "0.0.1",
+  "keywords": "react, flux, sails, todomvc",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lynnaloo/yacht-rock.git"
+    "url": "https://github.com/yejodido/todomvc-react-flux-sails"
   },
   "license": ["MIT", "Facebook BSD"],
   "engines": {
